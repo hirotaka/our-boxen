@@ -14,6 +14,8 @@ class people::hirotaka {
   include skype
   include adobe_reader  
   include gimp  
+  include postgresql
+  include heroku
 
   # homebrew でインストールするもの
   package {
