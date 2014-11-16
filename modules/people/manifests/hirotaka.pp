@@ -1,19 +1,16 @@
 # manifests/people/manifests/sonots.pp
 class people::hirotaka {
+  include zsh
   include chrome
+  include iterm2::stable
   include virtualbox
   include dropbox
+  include karabiner
   include vagrant
-  include hipchat
-  include iterm2::stable
   include emacs
-  include keyremap4macbook
-  include sublime_text_2
-  include sequel_pro
-  #include evernote
+  include evernote
   include skype
-  include adobe_reader  
-  include gimp  
+  include adobe_reader
   include postgresql
   include heroku
 
