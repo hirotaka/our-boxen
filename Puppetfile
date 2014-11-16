@@ -59,3 +59,16 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+# Optional/custom modules. There are tons available at
+# https://github.com/boxen.
+github "zsh",              "1.0.0"
+github "chrome",           "1.2.0"
+github "iterm2",           "1.2.2"
+github "virtualbox",       "1.0.13"
+github "dropbox",          "1.4.1"
+github "karabiner",        "1.0.6"
+github "vagrant",          "3.2.0"
+github "emacs",            "1.3.0"
+github "evernote",         "2.0.7"
+github "skype",            "1.0.9"
+github "adobe_reader",     "1.2.0"
