@@ -13,6 +13,7 @@ class people::hirotaka {
   include adobe_reader
   include postgresql
   include heroku
+  include onepassword
 
   # homebrew でインストールするもの
   package {
